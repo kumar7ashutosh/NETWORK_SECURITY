@@ -1,0 +1,16 @@
+Metadata-Version: 2.2
+Name: NETWORK-SECURITY
+Version: 0.0.1
+Author: Kumar Ashutosh
+Author-email: kumarashutoshbtech2023@gmail.com
+Requires-Dist: pandas
+Requires-Dist: numpy
+Requires-Dist: scikit-learn
+Requires-Dist: flask
+Requires-Dist: ipykernel
+Requires-Dist: python-dotenv
+Requires-Dist: pymongo
+Requires-Dist: certifi
+Dynamic: author
+Dynamic: author-email
+Dynamic: requires-dist
